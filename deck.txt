@@ -1,3 +1,4 @@
+1	Activate Tractor Beam
 1	Elizabeth Cutler
 1	Ethan Novakovich
 1	Hoshi Sato
@@ -19,7 +20,8 @@
 1	Amanda Cole
 3	Condition Red
 1	Sascha Money
-2	Military Assault Command Operations
+1	I.S.S. Avenger (Admiral's Ship)
+1	Military Assault Command Operations
 1	D'Vela
 1	Fiona McKenzie (Experienced Corporal)
 1	Sarajevo
@@ -33,7 +35,6 @@
 1	Neras
 4	Mutation (Virtual Promos)
 2	Isomagnetic Disintegrator (Homefront II)
-1	Space Boomer
 1	Burrows
 2	Charles Tucker III (Homefront II)
 1	Daniels*
