@@ -1,4 +1,5 @@
 1	Activate Tractor Beam
+1	Atmospheric Ionization
 1	Elizabeth Cutler
 1	Ethan Novakovich
 1	Hoshi Sato
@@ -38,6 +39,7 @@
 1	Burrows
 2	Charles Tucker III (Homefront II)
 1	Daniels*
+1	Quinn (Virtual Promos)
 1	Maxwell Forrest (Virtual Promos)
 1	Gannet Brooks
 Missions:
